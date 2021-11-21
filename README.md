@@ -11,10 +11,8 @@ samsFocus: ["Always something more to learn", "Python Development", "1% better e
 
 ultimateGoal: ["Provide useful insight or ideas", "Raise the tide to lift all boats", "Create"]
 
-spiritAnimal : []
-
 }
-
 ```
+
 
 [![Samuels GitHub stats](https://github-readme-stats.vercel.app/api?username=samforbyn&hide=contribs&theme=tokyonight)](https://github.com/samforbyn/github-readme-stats)
