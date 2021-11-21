@@ -13,6 +13,8 @@ ultimateGoal: ["Provide useful insight or ideas", "Raise the tide to lift all bo
 
 }
 ```
-
-
 [![Samuels GitHub stats](https://github-readme-stats.vercel.app/api?username=samforbyn&hide=contribs&theme=tokyonight)](https://github.com/samforbyn/github-readme-stats)
+
+### a picture that encapsulates my personality would be:
+
+![Scrappy Doo in a lobster costume](https://github.com/samforbyn/samforbyn/blob/main/scrappydoo.jpg)
