@@ -3,10 +3,10 @@
 ```
 const samForbyn = {
 familiarTech: ["Python", "Javascript","Node", "HTML", "CSS", "SASS", "Bootstrap", 
-    "Git", "Github" "VSCode", "Figma", "Wordpress","Functional Programming"]
+    "Git", "Github" "VSCode", "Figma", "Wordpress", "Functional Programming"]
   
 interestedIn: ["Python Software Development", "Object Oriented Programming", "Problem Solving", 
-    "Working smart", "Working hard (in a smart way)"]
+    "Working smart", "Finding creative solutions"]
 
 samsFocus: ["Always something more to learn", "Python Development", "1% better every day"]
 
