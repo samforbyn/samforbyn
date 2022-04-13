@@ -1,4 +1,4 @@
-## Hey! I'm Sam Forbyn, a Python Developer from Utah.
+## Hey! I'm Sam Forbyn, a Python Developer
 ```
 sam_forbyn = {
 
@@ -13,7 +13,3 @@ sam_forbyn = {
 }
 ```
 [![Samuels GitHub stats](https://github-readme-stats.vercel.app/api?username=samforbyn&hide=contribs&theme=tokyonight)](https://github.com/samforbyn/github-readme-stats)
-
-
-### About Me:
-#### I'm 22 years old, from Salt Lake City and I'm passionate about technology, problem solving, and providing creative solutions. I'm a software developer that loves to improve and expand my skills and knowledge. If I'm not learning something new or working on a project you can find me exercising, playing on my Nintendo Switch, or drawing.
